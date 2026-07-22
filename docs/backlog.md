@@ -51,8 +51,11 @@
 
 -   Users
 -   Books
+-   Authors
+-   Publishers
 -   PurchaseLinks
 -   Favorites
+-   ProfileImages
 
 ### Diseño Lógico-Relacional
 
