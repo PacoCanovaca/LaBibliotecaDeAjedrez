@@ -27,7 +27,7 @@
 
 ## 1.1 Análisis de requisitos (desarrollar el .md de la tarea 0.3)
 
-### Funcionales
+### Desarrollar requisitos funcionales con su explicación
 
 -   Registro
 -   Login
@@ -37,7 +37,7 @@
 -   Quitar favorito
 -   Ver favoritos
 
-### No funcionales
+### Desarrollar requisitos no funcionales (transversales, deben desarrollarse incluyen en cada uno los requisitos funcionales donde se usan)
 
 -   Conexión a API REST
 -   Contraseñas cifradas
@@ -54,13 +54,13 @@
 -   PurchaseLinks
 -   Favorites
 
-### Relaciones
+### Diseño Lógico-Relacional
 
 -   Usuario ↔ Favoritos
 -   Libro ↔ Favoritos
 -   Libro ↔ Enlaces
 
-### Tipos de datos
+### Tipos de datos (verificar y explicar en un documento .md)
 
 -   PK
 -   FK
@@ -69,18 +69,18 @@
 
 ## 1.3 Diseño de la API (en un .md en docs)
 
-### Usuarios
+### Endpoints Usuarios
 
 -   POST /register
 -   POST /login
 -   GET /me
 
-### Libros
+### Endpoints Libros
 
 -   GET /books
 -   GET /books/:id
 
-### Favoritos
+### Endpoints Favoritos
 
 -   GET /favorites
 -   POST /favorites
