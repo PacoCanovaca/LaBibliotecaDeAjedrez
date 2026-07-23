@@ -56,6 +56,7 @@
 -   PurchaseLinks
 -   Favorites
 -   ProfileImages
+-   BookImages
 
 ### Diseño Lógico-Relacional
 
@@ -63,10 +64,8 @@
 -   Libro ↔ Favoritos
 -   Libro ↔ Enlaces
 
-### Tipos de datos (verificar y explicar en un documento .md)
+### Índices y restricciones (verificar y explicar en un documento .md)
 
--   PK
--   FK
 -   Índices
 -   Restricciones
 
@@ -143,8 +142,12 @@ Definir parámetros, cuerpos, respuestas y errores.
 
 -   Users
 -   Books
+-   Authors
+-   Publishers
 -   PurchaseLinks
 -   Favorites
+-   ProfileImages
+-   BookImages
 
 ## 3.2 Crear relaciones
 
@@ -320,8 +323,9 @@ Definir parámetros, cuerpos, respuestas y errores.
 # Fase 9. Despliegue (opcional)
 
 -   Backend
--   Frontend
--   Base de datos
+-   Frontend (Vercel)
+-   Base de datos (Supabase)
+-   Archivos externos -imágenes- (Supabase)
 -   Variables de entorno
 -   Pruebas en producción
 
