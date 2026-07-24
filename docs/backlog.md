@@ -77,11 +77,15 @@ Definir y explicar cada restricción de cada tabla en el documento. Excluir las 
 -   POST /register
 -   POST /login
 -   GET /me
+-   PUT /me
+-   DELETE /me
 
 ### Endpoints Libros
 
 -   GET /books
 -   GET /books/:id
+-   GET /books/:name
+-   GET /books/:author
 
 ### Endpoints Favoritos
 

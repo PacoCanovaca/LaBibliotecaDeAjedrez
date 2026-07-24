@@ -9,6 +9,7 @@
 - Añadir un libro a favoritos: Tanto en el menú de búsqueda de la biblioteca como desde la vista de información del libro, el usuario podrá guardarlo en su colección personal mediante un botón específico (estrella). Esta acción vincula la obra al perfil del usuario, siendo el núcleo funcional para construir su biblioteca personalizada.
 - Quitar un libro de favoritos: El sistema ofrecerá la opción de revertir la acción anterior, permitiendo al usuario eliminar un título de su lista si ya no desea conservarlo. Se hará desmarcando el mismo botón.
 - Visualización de la lista de libros favoritos: Existirá un panel o sección privada (mi perfil) donde el usuario podrá consultar todas las obras que ha ido guardando. Este espacio actuará como su biblioteca personal definitiva, manteniendo sus libros de ajedrez favoritos siempre organizados y accesibles. También incluirá un panel de búsqueda como el del menú general.
+- Modificar la imagen de perfil y la contraseña: Dentro del menú de perfil de usuario, habrá un área para la imagen de perfil, que permitirá ser añadida, modificada o eliminada. Existirán una serie de imágenes por defecto entre las que el usuario podrá elegir, no estando aún disponible la opción de subir una imagen personalizada. También se podrá modificar la contraseña.
 
 ## Funcionalidades tranversales
 
