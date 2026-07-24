@@ -64,10 +64,11 @@
 -   Libro ↔ Favoritos
 -   Libro ↔ Enlaces
 
-### Índices y restricciones (verificar y explicar en un documento .md)
+### Índices (en un documento .sql)
 
--   Índices
--   Restricciones
+### Restricciones (en un documento .md)
+
+Definir y explicar cada restricción de cada tabla en el documento. Excluir las que ya han sido definidas en el diseño lógico-relacional (PK, FK, UNIQUE y NOT NULL)
 
 ## 1.3 Diseño de la API (en un .md en docs)
 

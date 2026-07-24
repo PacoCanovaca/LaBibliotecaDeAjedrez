@@ -186,7 +186,7 @@
         <mxCell id="6MA8-zNexCfgNUAuNhlT-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="id(PK)" vertex="1">
           <mxGeometry height="80" width="120" x="-200" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="6MA8-zNexCfgNUAuNhlT-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="image" vertex="1">
+        <mxCell id="6MA8-zNexCfgNUAuNhlT-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="image_url" vertex="1">
           <mxGeometry height="80" width="120" x="100" y="590" as="geometry" />
         </mxCell>
         <mxCell id="6MA8-zNexCfgNUAuNhlT-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="name(AK)" vertex="1">
